@@ -1,0 +1,50 @@
+{
+  "base-ui": {
+    "raw": 254770,
+    "gzip": 79821,
+    "brotli": 69061,
+    "added_raw": 35170,
+    "added_gzip": 12083,
+    "added_brotli": 10667
+  },
+  "baseline": {
+    "raw": 219600,
+    "gzip": 67738,
+    "brotli": 58394,
+    "added_raw": 0,
+    "added_gzip": 0,
+    "added_brotli": 0
+  },
+  "notistack": {
+    "raw": 244363,
+    "gzip": 76004,
+    "brotli": 65561,
+    "added_raw": 24763,
+    "added_gzip": 8266,
+    "added_brotli": 7167
+  },
+  "react-hot-toast": {
+    "raw": 231835,
+    "gzip": 72409,
+    "brotli": 62466,
+    "added_raw": 12235,
+    "added_gzip": 4671,
+    "added_brotli": 4072
+  },
+  "react-toastify": {
+    "raw": 254275,
+    "gzip": 77226,
+    "brotli": 66813,
+    "added_raw": 34675,
+    "added_gzip": 9488,
+    "added_brotli": 8419
+  },
+  "sonner": {
+    "raw": 253826,
+    "gzip": 76978,
+    "brotli": 66461,
+    "added_raw": 34226,
+    "added_gzip": 9240,
+    "added_brotli": 8067
+  }
+}

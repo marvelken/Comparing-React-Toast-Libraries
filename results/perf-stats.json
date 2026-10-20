@@ -1,0 +1,42 @@
+{
+  "react-hot-toast": {
+    "medianTotalMs": 530,
+    "minTotalMs": 527,
+    "maxTotalMs": 531.4,
+    "medianLongTaskCount": 0,
+    "medianLongTaskMs": 0,
+    "visibleLimit": 20
+  },
+  "sonner": {
+    "medianTotalMs": 786.7,
+    "minTotalMs": 772.6,
+    "maxTotalMs": 798.7,
+    "medianLongTaskCount": 0,
+    "medianLongTaskMs": 0,
+    "visibleLimit": 49
+  },
+  "react-toastify": {
+    "medianTotalMs": 541.3,
+    "minTotalMs": 539.7,
+    "maxTotalMs": 557.1,
+    "medianLongTaskCount": 0,
+    "medianLongTaskMs": 0,
+    "visibleLimit": 50
+  },
+  "notistack": {
+    "medianTotalMs": 518.4,
+    "minTotalMs": 515,
+    "maxTotalMs": 520.2,
+    "medianLongTaskCount": 0,
+    "medianLongTaskMs": 0,
+    "visibleLimit": 3
+  },
+  "base-ui": {
+    "medianTotalMs": 563.6,
+    "minTotalMs": 559.1,
+    "maxTotalMs": 563.9,
+    "medianLongTaskCount": 2,
+    "medianLongTaskMs": 223,
+    "visibleLimit": 50
+  }
+}

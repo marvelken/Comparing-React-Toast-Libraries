@@ -1,0 +1,8 @@
+[
+  {
+    "library": "base-ui",
+    "focusReachesToast": false,
+    "closeButtonReachable": true,
+    "method": "F6"
+  }
+]

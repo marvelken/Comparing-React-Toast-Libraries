@@ -1,0 +1,202 @@
+[
+  {
+    "library": "react-hot-toast",
+    "run": 1,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 530.1,
+    "visibleToastLimit": 20
+  },
+  {
+    "library": "react-hot-toast",
+    "run": 2,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 527,
+    "visibleToastLimit": 20
+  },
+  {
+    "library": "react-hot-toast",
+    "run": 3,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 531.4,
+    "visibleToastLimit": 20
+  },
+  {
+    "library": "react-hot-toast",
+    "run": 4,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 530,
+    "visibleToastLimit": 20
+  },
+  {
+    "library": "react-hot-toast",
+    "run": 5,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 527.7,
+    "visibleToastLimit": 20
+  },
+  {
+    "library": "sonner",
+    "run": 1,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 798.7,
+    "visibleToastLimit": 49
+  },
+  {
+    "library": "sonner",
+    "run": 2,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 780.9,
+    "visibleToastLimit": 49
+  },
+  {
+    "library": "sonner",
+    "run": 3,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 772.6,
+    "visibleToastLimit": 49
+  },
+  {
+    "library": "sonner",
+    "run": 4,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 786.7,
+    "visibleToastLimit": 49
+  },
+  {
+    "library": "sonner",
+    "run": 5,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 793.9,
+    "visibleToastLimit": 49
+  },
+  {
+    "library": "react-toastify",
+    "run": 1,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 540.5,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "react-toastify",
+    "run": 2,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 557.1,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "react-toastify",
+    "run": 3,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 539.7,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "react-toastify",
+    "run": 4,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 556.6,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "react-toastify",
+    "run": 5,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 541.3,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "notistack",
+    "run": 1,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 520.2,
+    "visibleToastLimit": 3
+  },
+  {
+    "library": "notistack",
+    "run": 2,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 518.5,
+    "visibleToastLimit": 3
+  },
+  {
+    "library": "notistack",
+    "run": 3,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 517.8,
+    "visibleToastLimit": 3
+  },
+  {
+    "library": "notistack",
+    "run": 4,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 515,
+    "visibleToastLimit": 3
+  },
+  {
+    "library": "notistack",
+    "run": 5,
+    "longTaskCount": 0,
+    "longTaskTotalMs": 0,
+    "totalTimeMs": 518.4,
+    "visibleToastLimit": 3
+  },
+  {
+    "library": "base-ui",
+    "run": 1,
+    "longTaskCount": 2,
+    "longTaskTotalMs": 222,
+    "totalTimeMs": 559.1,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "base-ui",
+    "run": 2,
+    "longTaskCount": 2,
+    "longTaskTotalMs": 223,
+    "totalTimeMs": 563.6,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "base-ui",
+    "run": 3,
+    "longTaskCount": 2,
+    "longTaskTotalMs": 225,
+    "totalTimeMs": 563.9,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "base-ui",
+    "run": 4,
+    "longTaskCount": 2,
+    "longTaskTotalMs": 221,
+    "totalTimeMs": 562.4,
+    "visibleToastLimit": 50
+  },
+  {
+    "library": "base-ui",
+    "run": 5,
+    "longTaskCount": 2,
+    "longTaskTotalMs": 223,
+    "totalTimeMs": 563.8,
+    "visibleToastLimit": 50
+  }
+]

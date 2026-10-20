@@ -1,0 +1,203 @@
+[
+  {
+    "library": "react-hot-toast",
+    "elements": [
+      {
+        "tagName": "DIV",
+        "role": "status",
+        "ariaLive": "polite",
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<div role=\"status\" aria-live=\"polite\" class=\"go3615723686\">This is a simple toast.</div>"
+      }
+    ]
+  },
+  {
+    "library": "react-hot-toast",
+    "keyboard": {
+      "method": "Tab",
+      "focusReached": false,
+      "closeReachable": false
+    }
+  },
+  {
+    "library": "react-hot-toast",
+    "reducedMotion": {
+      "animDur": "none found",
+      "transDur": "none found",
+      "matchesQuery": true
+    }
+  },
+  {
+    "library": "sonner",
+    "elements": [
+      {
+        "tagName": "SECTION",
+        "role": null,
+        "ariaLive": "polite",
+        "ariaAtomic": "false",
+        "ariaLabel": "Notifications alt+T",
+        "outerHTML": "<section aria-label=\"Notifications alt+T\" tabindex=\"-1\" aria-live=\"polite\" aria-relevant=\"additions text\" aria-atomic=\"false\" data-react-aria-top-layer=\"true\"><ol dir=\"ltr\" tabindex=\"-1\" data-sonner-toaster=\"true\" data-sonner-theme=\"light\" data-y-position=\"bottom\" data-x-position=\"right\" style=\"--front-toast-height: 53.5px; --width: 356px; --gap: 14px; --offset-top: 24px; --offset-right: 24px; --o"
+      },
+      {
+        "tagName": "OL",
+        "role": null,
+        "ariaLive": null,
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<ol dir=\"ltr\" tabindex=\"-1\" data-sonner-toaster=\"true\" data-sonner-theme=\"light\" data-y-position=\"bottom\" data-x-position=\"right\" style=\"--front-toast-height: 53.5px; --width: 356px; --gap: 14px; --offset-top: 24px; --offset-right: 24px; --offset-bottom: 24px; --offset-left: 24px; --mobile-offset-top: 16px; --mobile-offset-right: 16px; --mobile-offset-bottom: 16px; --mobile-offset-left: 16px;\"><li"
+      },
+      {
+        "tagName": "LI",
+        "role": null,
+        "ariaLive": null,
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<li tabindex=\"0\" class=\"\" data-sonner-toast=\"\" data-rich-colors=\"true\" data-styled=\"true\" data-mounted=\"true\" data-promise=\"false\" data-swiped=\"false\" data-removed=\"false\" data-visible=\"true\" data-y-position=\"bottom\" data-x-position=\"right\" data-index=\"0\" data-front=\"true\" data-swiping=\"false\" data-dismissible=\"true\" data-type=\"error\" data-swipe-out=\"false\" data-expanded=\"false\" style=\"--index: 0;"
+      },
+      {
+        "tagName": "LI",
+        "role": null,
+        "ariaLive": null,
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<li tabindex=\"0\" class=\"\" data-sonner-toast=\"\" data-rich-colors=\"true\" data-styled=\"true\" data-mounted=\"true\" data-promise=\"false\" data-swiped=\"false\" data-removed=\"false\" data-visible=\"true\" data-y-position=\"bottom\" data-x-position=\"right\" data-index=\"1\" data-front=\"false\" data-swiping=\"false\" data-dismissible=\"true\" data-type=\"success\" data-swipe-out=\"false\" data-expanded=\"false\" style=\"--index:"
+      }
+    ]
+  },
+  {
+    "library": "sonner",
+    "keyboard": {
+      "method": "Alt+T",
+      "focusReached": true,
+      "closeReachable": false
+    }
+  },
+  {
+    "library": "sonner",
+    "reducedMotion": {
+      "animDur": "none found",
+      "transDur": "none found",
+      "matchesQuery": true
+    }
+  },
+  {
+    "library": "react-toastify",
+    "elements": [
+      {
+        "tagName": "SECTION",
+        "role": null,
+        "ariaLive": "polite",
+        "ariaAtomic": "false",
+        "ariaLabel": "Notifications Alt+T",
+        "outerHTML": "<section class=\"Toastify\" aria-live=\"polite\" aria-atomic=\"false\" aria-relevant=\"additions text\" aria-label=\"Notifications Alt+T\"><div tabindex=\"-1\" class=\"Toastify__toast-container Toastify__toast-container--top-right\"><div id=\"1\" tabindex=\"0\" data-in=\"true\" class=\"Toastify__toast Toastify__toast-theme--light Toastify__toast--success\" role=\"alert\"><div class=\"Toastify__toast-icon Toastify--animate"
+      },
+      {
+        "tagName": "DIV",
+        "role": "alert",
+        "ariaLive": null,
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<div id=\"1\" tabindex=\"0\" data-in=\"true\" class=\"Toastify__toast Toastify__toast-theme--light Toastify__toast--success\" role=\"alert\"><div class=\"Toastify__toast-icon Toastify--animate-icon Toastify__zoom-enter\"><svg viewBox=\"0 0 24 24\" width=\"100%\" height=\"100%\" fill=\"var(--toastify-icon-color-success)\"><path d=\"M12 0a12 12 0 1012 12A12.014 12.014 0 0012 0zm6.927 8.2l-6.845 9.289a1.011 1.011 0 01-1."
+      },
+      {
+        "tagName": "DIV",
+        "role": "alert",
+        "ariaLive": null,
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<div id=\"2\" tabindex=\"0\" data-in=\"true\" class=\"Toastify__toast Toastify__toast-theme--light Toastify__toast--error\" role=\"alert\"><div class=\"Toastify__toast-icon Toastify--animate-icon Toastify__zoom-enter\"><svg viewBox=\"0 0 24 24\" width=\"100%\" height=\"100%\" fill=\"var(--toastify-icon-color-error)\"><path d=\"M11.983 0a12.206 12.206 0 00-8.51 3.653A11.8 11.8 0 000 12.207 11.779 11.779 0 0011.8 24h.21"
+      }
+    ]
+  },
+  {
+    "library": "react-toastify",
+    "keyboard": {
+      "method": "Tab",
+      "focusReached": true,
+      "closeReachable": false
+    }
+  },
+  {
+    "library": "react-toastify",
+    "reducedMotion": {
+      "animDur": "none found",
+      "transDur": "none found",
+      "matchesQuery": true
+    }
+  },
+  {
+    "library": "notistack",
+    "elements": [
+      {
+        "tagName": "DIV",
+        "role": null,
+        "ariaLive": null,
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<div class=\"notistack-SnackbarContainer go1453831412 go4027089540 go1141946668\"><div class=\"go1475592160 go1671063245\" style=\"pointer-events: all; overflow: visible; min-height: 0px; transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1);\"><div class=\"notistack-CollapseWrapper\" style=\"display: flex; width: 100%;\"><div class=\"notistack-Snackbar go3963613292\"><div class=\"go1888806478 notistack-MuiCon"
+      },
+      {
+        "tagName": "DIV",
+        "role": "alert",
+        "ariaLive": null,
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<div class=\"go1888806478 notistack-MuiContent notistack-MuiContent-success go167266335 go1725278324 go3162094071\" role=\"alert\" aria-describedby=\"notistack-snackbar\" style=\"transform: none; transition: transform 225ms cubic-bezier(0, 0, 0.2, 1);\"><div id=\"notistack-snackbar\" class=\"go946087465\"><svg viewBox=\"0 0 24 24\" focusable=\"false\" style=\"font-size: 20px; margin-inline-end: 8px; user-select: n"
+      },
+      {
+        "tagName": "DIV",
+        "role": "alert",
+        "ariaLive": null,
+        "ariaAtomic": null,
+        "ariaLabel": null,
+        "outerHTML": "<div class=\"go1888806478 notistack-MuiContent notistack-MuiContent-error go167266335 go3651055292 go3162094071\" role=\"alert\" aria-describedby=\"notistack-snackbar\" style=\"transform: none; transition: transform 225ms cubic-bezier(0, 0, 0.2, 1);\"><div id=\"notistack-snackbar\" class=\"go946087465\"><svg viewBox=\"0 0 24 24\" focusable=\"false\" style=\"font-size: 20px; margin-inline-end: 8px; user-select: non"
+      }
+    ]
+  },
+  {
+    "library": "notistack",
+    "keyboard": {
+      "method": "Tab",
+      "focusReached": false,
+      "closeReachable": false
+    }
+  },
+  {
+    "library": "notistack",
+    "reducedMotion": {
+      "animDur": "none found",
+      "transDur": "0.225s",
+      "matchesQuery": true
+    }
+  },
+  {
+    "library": "base-ui",
+    "elements": [
+      {
+        "tagName": "DIV",
+        "role": "region",
+        "ariaLive": "polite",
+        "ariaAtomic": "false",
+        "ariaLabel": "Notifications",
+        "outerHTML": "<div tabindex=\"-1\" role=\"region\" aria-live=\"polite\" aria-atomic=\"false\" aria-relevant=\"additions text\" aria-label=\"Notifications\" style=\"--toast-frontmost-height: 89px;\"><div role=\"dialog\" tabindex=\"0\" aria-modal=\"false\" aria-labelledby=\"_r_3_\" aria-describedby=\"_r_4_\" style=\"--toast-swipe-movement-x: 0px; --toast-swipe-movement-y: 0px; --toast-index: 0; --toast-offset-y: 0px; --toast-height: 89px"
+      }
+    ]
+  },
+  {
+    "library": "base-ui",
+    "keyboard": {
+      "method": "F6",
+      "focusReached": true,
+      "closeReachable": true
+    }
+  },
+  {
+    "library": "base-ui",
+    "reducedMotion": {
+      "animDur": "none found",
+      "transDur": "none found",
+      "matchesQuery": true
+    }
+  }
+]
